@@ -2,6 +2,11 @@
 
 **Comment les conditions de vie varient-elles en fonction des groupes sociaux ou des régions ?**
 
+## Contributors
+
+- [**Hamza Ouadoud**](https://github.com/hnioua)
+- [**Abdessamad Hnioua**](https://github.com/hamzaODprogramer)
+
 ---
 
 ## Méthodologies à envisager
